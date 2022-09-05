@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Sep  5 07:52:30 2022
+# Process ID: 3880
+# Current directory: C:/Users/jaakk/Vivado-Projects/Lab_1-LearnBasicSyntax/Lab_1-LearnBasicSyntax.runs/impl_1
+# Command line: vivado.exe -log led_thingy_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_thingy_top.tcl -notrace
+# Log file: C:/Users/jaakk/Vivado-Projects/Lab_1-LearnBasicSyntax/Lab_1-LearnBasicSyntax.runs/impl_1/led_thingy_top.vdi
+# Journal file: C:/Users/jaakk/Vivado-Projects/Lab_1-LearnBasicSyntax/Lab_1-LearnBasicSyntax.runs/impl_1\vivado.jou
+# Running On: jooaben, OS: Windows, CPU Frequency: 1797 MHz, CPU Physical cores: 16, Host memory: 16498 MB
+#-----------------------------------------------------------
+source led_thingy_top.tcl -notrace
